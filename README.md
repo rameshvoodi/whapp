@@ -1,6 +1,9 @@
 # NFT Whitelist dApp
 
 The NFT Whitelist dApp is a decentralized application built on the Ethereum blockchain that allows user to restrict access to limited number of addresses.
+
+## click here to view deployed dApp
+[deployed app](https://whapp.vercel.app/)
 ## Project Structure
 
 The project contains two folders:
